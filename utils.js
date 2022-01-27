@@ -13,3 +13,7 @@ function power(a,b){
     }
     console.log(result);
 }
+
+function substract(a,b) {
+    return a-b;
+}
